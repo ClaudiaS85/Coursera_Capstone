@@ -1,2 +1,1 @@
-# Coursera_Capstone
-Coursera_Capstone_course_9
+# github-example
